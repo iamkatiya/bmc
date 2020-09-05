@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Web_1920_148">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_148" data-name="Web 1920 – 148" clip-path="url(#clip-Web_1920_148)">
+    <g id="Telegram_logo" transform="translate(0.999 1.474)">
+      <path id="Path_2642" data-name="Path 2642" d="M11,0A11,11,0,1,1,0,11,11,11,0,0,1,11,0Z" transform="translate(0 -0.475)" fill="none" stroke="#fff" stroke-width="1"/>
+      <g id="Group_3882" data-name="Group 3882" transform="translate(5.311 6.189)">
+        <path id="Path_2640" data-name="Path 2640" d="M13.591,1.712A1.505,1.505,0,0,0,12.532.653,35.139,35.139,0,0,0,7.868.4,35.414,35.414,0,0,0,3.2.661,1.505,1.505,0,0,0,2.145,1.719,15.726,15.726,0,0,0,1.9,4.588a15.371,15.371,0,0,0,.253,2.877A1.505,1.505,0,0,0,3.212,8.524a35.139,35.139,0,0,0,4.664.253,35.139,35.139,0,0,0,4.664-.253A1.505,1.505,0,0,0,13.6,7.465a15.327,15.327,0,0,0,.253-2.877A15.608,15.608,0,0,0,13.591,1.712Z" transform="translate(-1.9 -0.4)" fill="#fff"/>
+        <path id="Path_2641" data-name="Path 2641" d="M64.2,35.19l3.1-1.8-3.1-1.8Z" transform="translate(-59.421 -29.207)" fill="#303030"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <filter id="Ellipse_166" x="-4" y="-2" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_217">
+      <rect width="38" height="38"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_217" data-name="Web 1920 – 217" clip-path="url(#clip-Web_1920_217)">
+    <g id="Group_3943" data-name="Group 3943" transform="translate(-602 -2407)">
+      <g id="Group_3944" data-name="Group 3944" transform="translate(3 -10)">
+        <g transform="matrix(1, 0, 0, 1, 599, 2417)" filter="url(#Ellipse_166)">
+          <g id="Ellipse_166-2" data-name="Ellipse 166" transform="translate(5 5)" fill="rgba(255,255,255,0.42)" stroke="#fff" stroke-width="2">
+            <circle cx="14" cy="14" r="14" stroke="none"/>
+            <circle cx="14" cy="14" r="13" fill="none"/>
+          </g>
+        </g>
+        <circle id="Ellipse_180" data-name="Ellipse 180" cx="9" cy="9" r="9" transform="translate(609 2427)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

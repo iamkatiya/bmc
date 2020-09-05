@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <clipPath id="clip-Web_1920_98">
+      <rect width="39" height="39"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_98" data-name="Web 1920 – 98" clip-path="url(#clip-Web_1920_98)">
+    <g id="btn_find_out_more" data-name="btn_find out more" transform="translate(1 1.418)">
+      <path id="bg" d="M28.876,0h149.19c15.948,0,28.876,11.455,28.876,25.585V29c0,14.13-12.928,25.585-28.876,25.585H28.876C12.928,54.582,0,43.127,0,29V25.585C0,11.455,12.928,0,28.876,0Z" fill="none" opacity="0.3"/>
+    </g>
+    <g id="playbutton" transform="translate(-1113 -1380)">
+      <rect id="base" width="37" height="37" rx="18.5" transform="translate(1114 1381)" fill="#e6b510"/>
+      <path id="icon" d="M0,0V7.472L5.978,3.736Z" transform="translate(1130.439 1395.945)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

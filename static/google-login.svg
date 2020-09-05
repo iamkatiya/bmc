@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Web_1920_161">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_161" data-name="Web 1920 – 161" clip-path="url(#clip-Web_1920_161)">
+    <g id="Group_3724" data-name="Group 3724" transform="translate(0.337 -0.041)">
+      <g id="Google__G__Logo" data-name="Google_&quot;G&quot;_Logo">
+        <path id="Path_2568" data-name="Path 2568" d="M293.073,227.537a25.688,25.688,0,0,0-.377-4.437H272.1v8.408h11.794a10.107,10.107,0,0,1-4.365,6.635V243.6h7.036C290.7,239.8,293.073,234.18,293.073,227.537Z" transform="translate(-249.944 -204.872)" fill="#4285f4"/>
+        <path id="Path_2569" data-name="Path 2569" d="M48.412,341.951a20.9,20.9,0,0,0,14.474-5.271l-7.036-5.456A13.243,13.243,0,0,1,36.161,324.3H28.9v5.624A21.838,21.838,0,0,0,48.412,341.951Z" transform="translate(-26.577 -297.952)" fill="#34a853"/>
+        <path id="Path_2570" data-name="Path 2570" d="M9.526,163.984a13.079,13.079,0,0,1,0-8.36V150H2.273a21.854,21.854,0,0,0,0,19.609Z" transform="translate(0.05 -137.8)" fill="#fbbc04"/>
+        <path id="Path_2571" data-name="Path 2571" d="M48.6,8.624A12.039,12.039,0,0,1,57.051,11.9h0l6.293-6.234A21.293,21.293,0,0,0,48.6-.017,22.059,22.059,0,0,0,28.9,12.018l7.321,5.624A13.17,13.17,0,0,1,48.6,8.624Z" transform="translate(-26.577 0.018)" fill="#ea4335"/>
+      </g>
+    </g>
+  </g>
+</svg>

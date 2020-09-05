@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.667" y1="0.167" x2="0.417" y2="0.75" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aee2"/>
+      <stop offset="1" stop-color="#1e96c8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.66" y1="0.437" x2="0.851" y2="0.802" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eff7fc"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_290">
+      <rect width="42" height="42"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_290" data-name="Web 1920 – 290" clip-path="url(#clip-Web_1920_290)">
+    <g id="Telegram_logo" transform="translate(0 0.475)">
+      <circle id="Ellipse_178" data-name="Ellipse 178" cx="21" cy="21" r="21" transform="translate(0 -0.475)" fill="url(#linear-gradient)"/>
+      <path id="Path_2631" data-name="Path 2631" d="M84.926,97.371c-.711,0-.59-.268-.835-.945L82,89.546,98.091,80" transform="translate(-68.081 -66.506)" fill="#c8daea"/>
+      <path id="Path_2632" data-name="Path 2632" d="M98,150a1.406,1.406,0,0,0,1.1-.549l2.926-2.845-3.649-2.2" transform="translate(-80.977 -119.402)" fill="#a9c9dd"/>
+      <path id="Path_2633" data-name="Path 2633" d="M58.266,85.387l8.843,6.533c1.009.557,1.737.268,1.989-.937l3.6-16.961c.368-1.477-.563-2.148-1.529-1.709l-21.135,8.15c-1.443.579-1.434,1.384-.263,1.742L55.194,83.9,67.75,75.975c.593-.359,1.137-.166.69.23" transform="translate(-40.862 -60.122)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

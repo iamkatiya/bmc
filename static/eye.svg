@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.391" height="16.35" viewBox="0 0 25.391 16.35">
+  <defs>
+    <clipPath id="clip-Web_1920_295">
+      <rect width="25.39" height="16.35"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_295" data-name="Web 1920 – 295" clip-path="url(#clip-Web_1920_295)">
+    <g id="view">
+      <g id="Group_3815" data-name="Group 3815" transform="translate(8.61 4.086)">
+        <g id="Group_3814" data-name="Group 3814">
+          <path id="Path_2627" data-name="Path 2627" d="M160.5,156.416a4.086,4.086,0,1,0,4.086,4.086A4.089,4.089,0,0,0,160.5,156.416Zm-.31,2.875a.938.938,0,0,0-.93.93H157.91a2.31,2.31,0,0,1,2.283-2.283Z" transform="translate(-156.416 -156.416)" fill="#a2a2a2"/>
+        </g>
+      </g>
+      <g id="Group_3817" data-name="Group 3817" transform="translate(0 0)">
+        <g id="Group_3816" data-name="Group 3816">
+          <path id="Path_2628" data-name="Path 2628" d="M25.1,89.5c-1.381-1.719-6.313-7.327-12.4-7.327S1.677,87.784.3,89.5a1.356,1.356,0,0,0,0,1.691c1.381,1.719,6.313,7.327,12.4,7.327s11.019-5.608,12.4-7.327A1.356,1.356,0,0,0,25.1,89.5ZM12.7,96.267a5.918,5.918,0,1,1,5.918-5.918A5.918,5.918,0,0,1,12.7,96.267Z" transform="translate(0 -82.176)" fill="#a2a2a2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

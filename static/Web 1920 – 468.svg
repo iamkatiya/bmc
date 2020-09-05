@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12.52" viewBox="0 0 16 12.52">
+  <defs>
+    <clipPath id="clip-Web_1920_468">
+      <rect width="16" height="12.52"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_468" data-name="Web 1920 – 468" clip-path="url(#clip-Web_1920_468)">
+    <g id="Сгруппировать_4188" data-name="Сгруппировать 4188" transform="translate(4.649 0.001)">
+      <g id="ic_arrow_drop_down_36px" transform="translate(1.615 -0.001) rotate(90)">
+        <path id="Контур_456" data-name="Контур 456" d="M0,0,6.262,6.264,12.523,0Z" fill="#fff"/>
+      </g>
+      <g id="ic_arrow_drop_down_36px-2" data-name="ic_arrow_drop_down_36px" transform="translate(4.906 12.523) rotate(-90)">
+        <path id="Контур_456-2" data-name="Контур 456" d="M0,0,6.262,6.264,12.523,0Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

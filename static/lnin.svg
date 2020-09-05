@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.59" height="15.59" viewBox="0 0 15.59 15.59">
+  <defs>
+    <clipPath id="clip-Web_1920_320">
+      <rect width="15.59" height="15.59"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_320" data-name="Web 1920 – 320" clip-path="url(#clip-Web_1920_320)">
+    <path id="iconmonstr-linkedin-4" d="M7.795,0A7.795,7.795,0,1,0,15.59,7.795,7.8,7.8,0,0,0,7.795,0ZM6.5,10.393H5.2V6.5H6.5Zm-.65-4.476a.72.72,0,1,1,.715-.72A.717.717,0,0,1,5.846,5.917Zm5.2,4.476h-1.3V8.535c0-1.222-1.3-1.119-1.3,0v1.858h-1.3V6.5h1.3v.71c.566-1.05,2.6-1.128,2.6,1.006Z" fill="#0a66c2"/>
+  </g>
+</svg>

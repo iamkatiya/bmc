@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-Web_1920_453">
+      <rect width="18" height="18"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_453" data-name="Web 1920 – 453" clip-path="url(#clip-Web_1920_453)">
+    <g id="Сгруппировать_3738" data-name="Сгруппировать 3738" transform="translate(0 0.223)">
+      <g id="Эллипс_41" data-name="Эллипс 41" transform="translate(0 -0.222)" fill="none" stroke="#303030" stroke-width="0.3">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="8.85" fill="none"/>
+      </g>
+      <line id="Линия_24" data-name="Линия 24" x2="12.142" transform="translate(2.977 8.71)" fill="none" stroke="#303030" stroke-width="0.3"/>
+    </g>
+  </g>
+</svg>
