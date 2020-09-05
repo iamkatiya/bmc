@@ -14,6 +14,10 @@ axios, proxy, chart.js, cookie-universal-nuxt, clickaway, vue-pdf, vuescroll
 eslint
 webpack
 ```
+## Особенности данного проекта:
+- http://bmc.irk.life/investment - на данной странице представлен калькулятор инвестиций, для быстрого подсчета прибыли потенциального инвестора. График сделан с использованием chart.js
+- Кастомная авторизация с использованием cookie, vuex, axios и proxy. 
+
 
 ## Команды для работы с проектом
 ```
